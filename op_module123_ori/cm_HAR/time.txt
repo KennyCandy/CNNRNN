@@ -1,0 +1,19 @@
+------------- 
+This is time 
+Started at 
+2017-04-04 06:54:14.604430
+---Save model 
+final loss:2.2824921608 
+final test accuracy:0.182219207287 
+best epoch's test accuracy:0.182219207287 
+------------- 
+This is time 
+Started at 
+2017-04-04 06:55:59.754240
+---Save model 
+final loss:2.22735953331 
+final test accuracy:0.142517820001 
+best epoch's test accuracy:0.142517820001 
+Ended at 
+2017-04-04 06:57:44.487768
+------------- 

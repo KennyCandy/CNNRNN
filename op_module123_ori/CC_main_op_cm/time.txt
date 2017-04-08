@@ -1,0 +1,213 @@
+------------- 
+This is time 
+Started at 
+2017-04-03 03:35:27.500940
+---Save model 
+final loss:0.902790546417 
+final test accuracy:0.823006331921 
+best epoch's test accuracy:0.832252621651 
+Ended at 
+2017-04-03 03:38:33.166739
+------------- 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:39:52.538890
+---Save model 
+final loss:0.793316662312 
+final test accuracy:0.825962126255 
+best epoch's test accuracy:0.832732617855 
+Ended at 
+2017-04-03 03:42:49.661805
+------------- 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:10:53.281629
+---Save model 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:13:30.444606
+---Save model 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:17:26.684770
+---Save model 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:20:25.784658
+---Save model 
+final loss:0.994212567806 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:28:05.278626
+---Save model 
+final loss:1.01616489887 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:35:16.433760
+---Save model 
+final loss:1.02758026123 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:37:19.055575
+---Save model 
+final loss:1.00976169109 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 03:40:18.270853
+---Save model 
+final loss:1.02751290798 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:00:08.878897
+---Save model 
+final loss:1.02348458767 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+Ended at 
+2017-04-03 21:03:27.629251
+------------- 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:06:22.909035
+---Save model 
+final loss:1.03678274155 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:10:47.416866
+---Save model 
+final loss:0.975097060204 
+final test accuracy:0.830315768719 
+best epoch's test accuracy:0.830315768719 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:18:03.343461
+---Save model 
+final loss:1.01449751854 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:23:30.317634
+---Save model 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:27:45.481374
+---Save model 
+final loss:0.942100524902 
+final test accuracy:0.821541070938 
+best epoch's test accuracy:0.821541070938 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:38:03.698104
+---Save model 
+final loss:0.890013933182 
+final test accuracy:0.830391585827 
+best epoch's test accuracy:0.830391585827 
+------------- 
+This is time 
+Started at 
+2017-04-03 21:55:54.123373
+---Save model 
+final loss:0.98542791605 
+final test accuracy:0.83252209425 
+best epoch's test accuracy:0.83252209425 
+------------- 
+This is time 
+Started at 
+2017-04-03 22:01:11.518337
+---Save model 
+final loss:1.0370028019 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 22:13:22.534782
+---Save model 
+final loss:1.01517522335 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 22:23:08.246759
+---Save model 
+final loss:1.03882491589 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-03 22:31:14.539857
+---Save model 
+final loss:1.04960536957 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-04 06:08:39.492786
+---Save model 
+final loss:0.954033613205 
+final test accuracy:0.828404188156 
+best epoch's test accuracy:0.828404188156 
+------------- 
+This is time 
+Started at 
+2017-04-04 06:14:28.275495
+---Save model 
+final loss:1.02997648716 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-04 06:23:26.540688
+---Save model 
+final loss:1.01227319241 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-04 06:28:36.220118
+---Save model 
+final loss:1.01410210133 
+final test accuracy:0.832757890224 
+best epoch's test accuracy:0.832757890224 
+------------- 
+This is time 
+Started at 
+2017-04-04 06:36:59.847645
+---Save model 
+final loss:0.910446226597 
+final test accuracy:0.823797881603 
+best epoch's test accuracy:0.823797881603 
