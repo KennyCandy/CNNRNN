@@ -66,7 +66,7 @@ LABELS = [
 # FLAG to know that whether this is traning process or not.
 FLAG = 'train'
 N_HIDDEN_CONFIG = 32
-N_CLASSES = 6  # Final output classes
+N_CLASSES = 22  # Final output classes
 X_reshaped = 12
 Y_reshaped = 32
 OUTPUT_KEEP_PROB_CONFIG = 1.0
@@ -187,7 +187,7 @@ if __name__ == "__main__":
             # Training
             self.learning_rate = 0.0025
             self.lambda_loss_amount = 0.0015
-            self.training_epochs = 300
+            self.training_epochs = 500
             self.batch_size = 12
 
             self.output_keep_prob = OUTPUT_KEEP_PROB_CONFIG

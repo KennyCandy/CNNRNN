@@ -19,10 +19,14 @@ def file_len(fname):
             pass
     return i + 1
 
-FLAG = 'make_train_'
-NUMBER_CLASSES = 6
+FLAG = 'make_test'
+NUMBER_CLASSES = 22
 skip_header_lines = 0;
+
+BASE_PATH = '../data/Walking_dataset/'
 DATA_PATH = '../data/Walking_dataset/data_ori/'
+TRAIN_PATH = BASE_PATH + 'train/' 
+TEST_PATH  = BASE_PATH + 'test/' 
 
 USER_NUMBER = '2'
 filename = DATA_PATH + USER_NUMBER + '.csv'
@@ -36,16 +40,16 @@ def read_file_csv (filename):
 
 full_data = read_file_csv(filename)
 
-thefile1 = open('body_acc_x_train.txt', 'a+')
-thefile2 = open('body_acc_y_train.txt', 'a+')
-thefile3 = open('body_acc_z_train.txt', 'a+')
+thefile1 = open(TRAIN_PATH + '/Inertial Signals/' + 'body_acc_x_train.txt', 'a+')
+thefile2 = open(TRAIN_PATH + '/Inertial Signals/' + 'body_acc_y_train.txt', 'a+')
+thefile3 = open(TRAIN_PATH + '/Inertial Signals/' + 'body_acc_z_train.txt', 'a+')
 
-thefile4 = open('body_acc_x_test.txt', 'a+')
-thefile5 = open('body_acc_y_test.txt', 'a+')
-thefile6 = open('body_acc_z_test.txt', 'a+')
+thefile4 = open(TEST_PATH  + '/Inertial Signals/' + 'body_acc_x_test.txt', 'a+')
+thefile5 = open(TEST_PATH  + '/Inertial Signals/' + 'body_acc_y_test.txt', 'a+')
+thefile6 = open(TEST_PATH  + '/Inertial Signals/' + 'body_acc_z_test.txt', 'a+')
 
-thefile_y_train = open('y_train.txt', 'a+')
-thefile_y_test = open('y_test.txt', 'a+')
+thefile_y_train = open(TRAIN_PATH + 'y_train.txt', 'a+')
+thefile_y_test = open(TEST_PATH + 'y_test.txt', 'a+')
 
 
 print(file_len(filename))
